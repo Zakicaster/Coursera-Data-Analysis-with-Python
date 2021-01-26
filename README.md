@@ -1,4 +1,4 @@
-# Coursera-s-Data-Analysis-with-Python
+# Coursera-Data-Analysis-with-Python
 
 ##Peer-Graded Assignment: Final Assignment
 Estimated time needed: 45 minutes
