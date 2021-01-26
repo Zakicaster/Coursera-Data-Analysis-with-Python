@@ -51,11 +51,11 @@ You will not be judged on:
 
 Your English language, including spelling or grammatical mistakes.
 The content of any text or image(s) or where a link is hyperlinked to.
-Author(s)
+## Author(s)
 Aije Egwaikhide
-Other Contributor(s)
+## Other Contributor(s)
 Joseph Santarcangelo
 Changelog
-Date	Version	Changed by	Change Description
+## Date	Version	Changed by	Change Description
 2020-12-01	1.0	Aije Egwaikhide	Initial version created in GitLab
-© IBM Corporation 2020. All rights reserved
+### © IBM Corporation 2020. All rights reserved
